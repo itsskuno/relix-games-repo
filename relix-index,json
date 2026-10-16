@@ -1,0 +1,12 @@
+{
+  "Metadata": { "LatestVersion": [0, 1, 0] },
+  "Games": [
+    {
+      "Title": "Test Game",
+      "Repo": "testgame01",
+      "Url": "https://github.com/itsskuno/relix-games-repo/releases/download/games/example01.zip",
+      "Exe": "Example\\TestGame.exe",
+      "Args": ""
+    }
+  ]
+}
