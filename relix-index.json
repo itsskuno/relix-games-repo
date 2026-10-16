@@ -7,6 +7,13 @@
       "Url": "https://github.com/itsskuno/relix-games-repo/releases/download/games/example01.zip",
       "Exe": "Example\\TestGame.exe",
       "Args": ""
+    },
+    {
+      "Title": "People Playground",
+      "Repo": "ppg01",
+      "Url": "https://github.com/itsskuno/relix-games-repo/releases/download/games/ppg01.zip",
+      "Exe": "People Playground.exe",
+      "Args": ""
     }
   ]
 }
